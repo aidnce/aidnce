@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @aidnce
-- 👀 I’m interested in: bikes
-- 🌱 I’m currently learning: code
-- 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: you dont
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i play roblox
+- 👀 I’m interested in:
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on:
+- 📫 How to reach me: 
+- 😄 Pronouns:
+- ⚡ Fun fact: 
 
 <!---
 aidnce/aidnce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
